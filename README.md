@@ -1,4 +1,4 @@
-# Camunda BPM example based on Spring Boot
+# Camunda BPM boilerplate based on Spring Boot
 
 Based on [Camunda Spring Boot starter app](https://github.com/camunda/camunda-bpm-examples/tree/master/spring-boot-starter/example-webapp?ref=7f807189b443c2f10e8cb192303a46b0fef7ac62)
 
